@@ -1,0 +1,36 @@
+# All analysis outputs
+*
+
+# Except .gitignore itself
+!.gitignore
+
+# Except example outputs (if needed)
+!examples/
+
+# Common output patterns to ignore
+*.json
+*.csv
+*.html
+*.md
+*.log
+*.png
+*.jpg
+*.svg
+*.pdf
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Archive files
+*.zip
+*.tar.gz
+*.tar
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep the directory
+!.gitkeep

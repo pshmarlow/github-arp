@@ -1,0 +1,53 @@
+# Cache directory
+cache/
+*.cache
+
+# Temporary data files
+raw/
+temp/
+*.tmp
+
+# Large data files
+*.csv
+*.json
+!schemas/*.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Compressed archives
+*.zip
+*.tar.gz
+*.tar
+*.gz
+
+# Log files
+*.log
+
+# API tokens and credentials
+.env
+.env.local
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Node modules (if any analysis tools use npm)
+node_modules/
+
+# Keep schemas directory
+!schemas/
