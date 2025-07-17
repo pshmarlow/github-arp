@@ -23,8 +23,6 @@
 3. [Additional questions...]
 
 ## CONSTRAINTS
-- **Time Limit**: [e.g., analysis should complete within 1 hour]
-- **API Rate Limits**: [any specific limits to be aware of]
 - **Data Scope**: [e.g., last 6 months of commits only]
 - **Access Restrictions**: [e.g., public repos only]
 
