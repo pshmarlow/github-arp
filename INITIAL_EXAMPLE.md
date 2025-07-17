@@ -26,8 +26,6 @@ Analyze the Next.js repository to understand bundle size trends, identify perfor
 7. Are there any performance regressions in the build pipeline since the last major version?
 
 ## CONSTRAINTS
-- **Time Limit**: Complete analysis within 2 hours
-- **API Rate Limits**: Use authenticated requests (5000/hour limit)
 - **Data Scope**: Focus on packages/ directory, exclude tests and examples
 - **Build Analysis**: Only analyze production builds, not development
 
